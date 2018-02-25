@@ -1,0 +1,1 @@
+Bash shell and Python scripts for practical work of Myanmar fingerspelling classification (Ka to Nga Consonants).
