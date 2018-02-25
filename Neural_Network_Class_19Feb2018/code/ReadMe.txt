@@ -1,4 +1,4 @@
-Bash shell and Python scripts for practical work of Myanmar fingerspelling classification (Ka to Nga Consonants).
+Bash shell scripts, Python scripts and some data for practical work of Multilayer Perceptron classification with Myanmar fingerspelling images (Ka to Nga Consonants).
 
 အောက်ပါ ပရိုဂရမ်တွေကို သုံးပြီး image classification ကို လက်တွေ့ လုပ်ကြည့်ကြရအောင်
 extract-feature.sh (for feature extraction)
@@ -9,8 +9,10 @@ train-test-MLP-clf.py (for training image classifier and testing)
 
 အရင်ဆုံး ./data/ ဖိုလ်ဒါကို mkdir data ဆိုတဲ့ command ပေးပြီး ဖိုလ်ဒါ အသစ်ဆောက်ပါ။
 အဲဒီအောက်မှာ ကိုယ်က classification လုပ်ချင်တဲ့ image ဖိုင်တွေကို သက်ဆိုင်ရာ class အလိုက် sub-folder တွေခွဲပြီး သိမ်းပါ။
+ကိုယ် ကြိုက်တဲ့ ပုံတွေနဲ့ classification စမ်းလုပ်ကြည့်လို့ ရပါတယ်။
+class အရေအတွက်ကလည်း ကိုယ်ကြိုက်သလို ထားလို့ ရပါတယ်။
 
-ဥပမာ class က "ကကြီး" ကနေ "င" အထိ ၅မျိုးရှိတယ်ဆိုရင်၊ အောက်ပါအတိုင်း ဖိုလ်ဒါ ၅ခုရှိရမယ်။
+ဥပမာ classifier မော်ဒယ်ကို training လုပ်ချင်တဲ့ class က "ကကြီး" ကနေ "င" အထိ ၅မျိုးရှိတယ်ဆိုရင်၊ အောက်ပါအတိုင်း ဖိုလ်ဒါ ၅ခုရှိရမယ်။
 
 lar@lar-air:~/experiment/fs/mc-fs/ucsy-fs/data$ ls
 Ga  Gha  Ka  Kha  Nga 
@@ -22,10 +24,7 @@ Gha/ အောက်မှာ ဃ ပုံတွေ
 Nga/ အောက်မှာ င ပုံတွေ ကို အသီးသီး သိမ်းထားပါ။
 
 UCSY ရဲ့ Neural Network class မှာက မိုဘိုင်းဖုန်း ၂လုံးကို သုံးပြီး ပုံ ၁၈၀ ကို ရိုက်ယူခဲ့ပါတယ်။
-အဲဒီပုံတွေကိုတော့ တင်မပေးထားပါဘူး။
-
-ကိုယ် ကြိုက်တဲ့ ပုံနဲ့ စမ်းလို့ ရပါတယ်။
-class အရေအတွက်ကလည်း ကိုယ်ကြိုက်သလို ထားလို့ ရပါတယ်။
+အဲဒီပုံတွေကိုလည်း သုံးချင်ရင် သုံးလို့ရအောင် ./data ဖိုလ်ဒါအောက်မှာ တင်ပေးထားပါတယ်။
 
 ==========
 
@@ -42,7 +41,7 @@ https://github.com/BVLC/caffe/tree/master/models/bvlc_reference_caffenet
 
 Running Steps:
 
-Feature extraction လုပ်တဲ့ အဆင့်:
+Feature extraction လုပ်တဲ့ အဆင့် :
 $time ./extract-feature.sh ./data/ | tee train-test.log
 
 train လုပ်လို့ရအောင် တစ်ပုံချင်းစီရဲ့ feature တွေကို ဖိုင်တစ်ဖိုင်ထဲမှာ လေဘယ် (နောက်ဆုံး ကော်လံမှာရှိ) တပ်ပြီး သိမ်းတဲ့ အလုပ်ကို လုပ်ဖို့၊
