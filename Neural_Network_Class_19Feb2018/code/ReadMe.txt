@@ -1,3 +1,5 @@
+Bash shell and Python scripts for practical work of Myanmar fingerspelling classification (Ka to Nga Consonants).
+
 အောက်ပါ ပရိုဂရမ်တွေကို သုံးပြီး image classification ကို လက်တွေ့ လုပ်ကြည့်ကြရအောင်
 extract-feature.sh (for feature extraction)
 add-label.sh (for adding y labels, combining all features as one file for training)
