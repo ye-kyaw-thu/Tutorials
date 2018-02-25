@@ -22,4 +22,25 @@ Nga/ အောက်မှာ င ပုံတွေ ကို အသီးသ�
 ==========
 
 ./caffe-model/ အောက်မှာ caffe နဲ့ သက်ဆိုင်တဲ့ ဖိုင် ၃ဖိုင်ရှိနေရပါမယ်။
-ဖိုင်တစ်ဖိုင်က ဆိုင်
+bvlc_reference_caffenet.caffemodel ဖိုင်က ဖိုင်ဆိုက်ကြီးလို့ GitHub မှာ မတင်ထားပါဘူး။
+အောက်ပါ လင့် ကနေ ဒေါင်းလုဒ်လုပ်ယူပါ။
+https://github.com/BVLC/caffe/tree/master/models/bvlc_reference_caffenet
+
+==========
+
+./data နဲ့ ./caffe-model ဖိုလ်ဒါပြင်ဆင်တာပြီးပြီ ဆိုရင်run ကြည့်လို့ ရပြီ။
+
+==========
+
+Running Steps:
+
+Feature extraction လုပ်တဲ့ အဆင့်:
+$time ./extract-feature.sh ./data/ | tee train-test.log
+
+train လုပ်လို့ရအောင် တစ်ပုံချင်းစီရဲ့ feature တွေကို ဖိုင်တစ်ဖိုင်ထဲမှာ လေဘယ် (နောက်ဆုံး ကော်လံမှာရှိ) တပ်ပြီး သိမ်းတဲ့ အလုပ်ကို လုပ်ဖို့၊
+နောက်ပြီးတော့ id နဲ့ class name dictionary ဆောက်တဲ့ အလုပ်ကို လုပ်ဖို့အတွက်က အောက်ပါ command ကို run ပါ။
+2. ./add-label.sh ./data/ | tee ./train-test.log 
+
+Multilayer perceptron (MLP) နဲ့ classifier modeling (i.e. training) နဲ့ testing ကို လုပ်ဖို့အတွက်က အောက်ပါ command ကို run ပါ။ 
+3. python ./train-test-MLP-clf.py ./data/data.feature | tee ./train-test.log 
+
