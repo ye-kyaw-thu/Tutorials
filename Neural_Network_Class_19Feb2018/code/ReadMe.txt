@@ -47,8 +47,8 @@ $time ./extract-feature.sh ./data/ | tee train-test.log
 
 train လုပ်လို့ရအောင် တစ်ပုံချင်းစီရဲ့ feature တွေကို ဖိုင်တစ်ဖိုင်ထဲမှာ လေဘယ် (နောက်ဆုံး ကော်လံမှာရှိ) တပ်ပြီး သိမ်းတဲ့ အလုပ်ကို လုပ်ဖို့၊
 နောက်ပြီးတော့ id နဲ့ class name dictionary ဆောက်တဲ့ အလုပ်ကို လုပ်ဖို့အတွက်က အောက်ပါ command ကို run ပါ။
-2. ./add-label.sh ./data/ | tee ./train-test.log 
+$./add-label.sh ./data/ | tee ./train-test.log 
 
 Multilayer perceptron (MLP) နဲ့ classifier modeling (i.e. training) နဲ့ testing ကို လုပ်ဖို့အတွက်က အောက်ပါ command ကို run ပါ။ 
-3. python ./train-test-MLP-clf.py ./data/data.feature | tee ./train-test.log 
+$python ./train-test-MLP-clf.py ./data/data.feature | tee ./train-test.log 
 
