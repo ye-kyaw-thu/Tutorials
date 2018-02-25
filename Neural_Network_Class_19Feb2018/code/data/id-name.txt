@@ -1,0 +1,5 @@
+1	Ga
+2	Nga
+3	Gha
+4	Ka
+5	Kha
