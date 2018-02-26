@@ -1,4 +1,4 @@
-Slide and codes of one day Neural Network class, 19 Feb 2018 at University of Computer Studies, Yangon (UCSY).
+Slide and codes of one day Neural Network class, 19 Feb 2018 at University of Computer Studies, Yangon (UCSY), Myanmar.
 
 ဆလိုက်မှာက ဗီဒီယို ဖိုင်တွေပါ ပါနေလို့ ဖိုင်ဆိုက်က 55 MB အထိရှိလို့ free GitHub account နဲ့က upload လုပ်လို့မရလို့ တင်မပေးထားပါဘူး။
 အဲဒါကြောင့် PDF file အဖြစ်ပြောင်းပြီးတော့ တင်ပေးထားပါတယ်။
