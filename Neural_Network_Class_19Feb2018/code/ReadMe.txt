@@ -51,3 +51,7 @@ $./add-label.sh ./data/ | tee ./train-test.log
 Multilayer perceptron (MLP) နဲ့ classifier modeling (i.e. training) နဲ့ testing ကို လုပ်ဖို့အတွက်က အောက်ပါ command ကို run ပါ။ 
 $python ./train-test-MLP-clf.py ./data/data.feature | tee ./train-test.log 
 
+==========
+
+| tee ./train-test.log 
+
