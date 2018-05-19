@@ -1,0 +1,64 @@
+ls
+pwd
+cd
+cat
+file
+head
+tail
+cp
+mv
+rm
+alias
+touch
+diff
+less
+type
+which
+--help
+man
+whatis
+info
+Escape Sequences
+echo
+Wildcard and Brace Expression
+Piping and Redirection
+Regular Expression (RE or regex)
+find
+grep
+egrep
+sed
+awk
+tac
+rev
+paste
+join
+sort
+uniq
+tr
+export
+xargs
+ssh
+nohup
+time
+scp
+top
+free
+du
+dos2unix
+iconv
+convert
+bc
+gzip
+unzip
+tar
+zless
+shutdown
+apt-get
+curl
+wget
+dmesg
+compgen
+uname
+Chanining of Linux Commands
+
+

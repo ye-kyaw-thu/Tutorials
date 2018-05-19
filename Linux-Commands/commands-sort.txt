@@ -1,0 +1,15 @@
+alias
+cat
+cd
+cp
+diff
+file
+head
+less
+ls
+mv
+pwd
+rm
+tail
+touch
+type

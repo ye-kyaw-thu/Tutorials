@@ -1,0 +1,15 @@
+Kaung_MontHinGar	4000	537110	kaung_monthingar@gmail.com	*****
+Osaka_PaukSi	1000	232345	opauksi@gmail.com	***
+Brain_BainMont	500	112111	bbm@gmail.com	*****
+Htoo_Coffee_Shop	1500	454567	htoo_coffee@hotmail.com	***
+Lu_Maik_Tea_Shop	3000	343434	lumaik@gmail.com	*****
+A_Wa_Sar_Restaurant	15000	884466	awasar@hotmail.com	****
+Taung_Gyi_Noodle_Restaurant	7000	313131	tgnoodle@yahoo.com	**
+Tokyo_Ramen	6500	232312	tokyomen@gmail.com	****
+Brown_MontKyweThe	4000	787890	brown@yahoo.com	***
+MainMa_PePyote	3500	382345	mainmape@hotmail.com	***
+MuTuu_ChiTi_Restaurant	9000	mutuuchit@gmail.com	*****
+Numpy_GaNan_Restaurant	20000	414235	numpy@yahoo.com	***
+Bitter_Cake	5000	999434	bitter@gmail.com	*****
+NeverMind_MontHinGar	5000	330021	nevermind@yahoo.com	**
+Bamboo_Chinese_Restaurant	18000	478765	bamboocr@hotmail.com	****	

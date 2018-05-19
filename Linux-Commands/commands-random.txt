@@ -1,0 +1,15 @@
+9. ls
+10. mv
+4. cp
+14. touch
+13. tail
+15. type
+2. cat
+7. head
+3. cd
+5. diff
+11. pwd
+6. file
+1. alias
+12. rm
+8. less

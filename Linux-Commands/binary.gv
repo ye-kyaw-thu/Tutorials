@@ -1,0 +1,8 @@
+digraph binary{
+I -> 0 [label = "<1>"]
+0 -> 0 [label = "0, 1"]
+0 -> 1 [label = "1"]
+1 -> 1 [label = "0"]
+1 -> 1 [label = "0, <2>1"]
+1 -> F
+}
