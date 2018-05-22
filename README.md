@@ -8,6 +8,6 @@ Tutorial slide, Jupyter notebook and codes.
 
 2. မြန်မာကျောင်းသားများအတွက် အခြေခံ linux command များ
 * NLP Summer School, 14-15 Aug 2017 at University of Computer Studies, Yangon (UCSY), Yangon, Myanmar  
-* Plan to use for Deep Learning Summer Schools, 2018, Myanmar
+* Plan to use for Deep Learning Summer Schools, 2018, Myanmar  
 &#128193; [Linux-Commands](https://github.com/ye-kyaw-thu/Tutorials/tree/master/Linux-Commands)  
 &#x1f4d3;[Jupyter Notebok of Linux-Commands](https://github.com/ye-kyaw-thu/Tutorials/blob/master/Linux-Commands/linux-commands.ipynb)
