@@ -13,5 +13,5 @@ Tutorial slide, Jupyter notebook and codes.
 &#x1f4d3;[Jupyter Notebok of Linux-Commands](https://github.com/ye-kyaw-thu/Tutorials/blob/master/Linux-Commands/linux-commands.ipynb)
 
 3. SOS-for-Linux 
-   (လက်ရှိမှာ Windows OS ကိုသုံးနေပြီး၊ Dural boot installation, VMWare (e.g. Virtual Box) ကို သုံးပြီး Linux OS installation မလုပ်တတ်သေးပဲ၊ linux command တွေကို လက်တွေ့လိုက်စမ်းကြည့်ချင်သူများအတွက်)
+   (လက်ရှိမှာ Windows OS ကိုသုံးနေပြီး၊ Dural boot installation, VMWare (e.g. Virtual Box) ကို သုံးပြီး Linux OS installation မလုပ်တတ်သေးပဲ၊ linux command တွေကို လက်တွေ့လိုက်စမ်းကြည့်ချင်သူများအတွက်)  
    [SOS-for-Linux PDF file](https://github.com/ye-kyaw-thu/Tutorials/blob/master/SOS-for-Linux.pdf)
