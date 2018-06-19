@@ -17,7 +17,7 @@ Tutorial slide, Jupyter notebook and codes.
    [SOS-for-Linux PDF file](https://github.com/ye-kyaw-thu/Tutorials/blob/master/SOS-for-Linux.pdf)  
 
 4. Jupyter Notebook Installation  
-   Notebook file: [https://github.com/ye-kyaw-thu/Tutorials/blob/master/jupyter-notebook/jupyter-notebook-installation.ipynb](https://github.com/ye-kyaw-thu/Tutorials/blob/master/jupyter-notebook/jupyter-notebook-installation.ipynb)  
+  &#x1f4d3; Notebook file: [https://github.com/ye-kyaw-thu/Tutorials/blob/master/jupyter-notebook/jupyter-notebook-installation.ipynb](https://github.com/ye-kyaw-thu/Tutorials/blob/master/jupyter-notebook/jupyter-notebook-installation.ipynb)  
    HTML file: [https://github.com/ye-kyaw-thu/Tutorials/blob/master/jupyter-notebook/jupyter-notebook-installation.html](https://github.com/ye-kyaw-thu/Tutorials/blob/master/jupyter-notebook/jupyter-notebook-installation.html)  
    
 
