@@ -14,4 +14,9 @@ Tutorial slide, Jupyter notebook and codes.
 
 3. SOS-for-Linux  
    (လက်ရှိမှာ Windows OS ကိုသုံးနေပြီး၊ Dural boot installation, Cygwin (Terminal Emulator on Windows), VMWare (e.g. Virtual Box) ကို သုံးပြီး Linux OS installation မလုပ်တတ်သေးပဲ၊ linux command တွေကို လက်တွေ့လိုက်စမ်းကြည့်ချင်သူများအတွက်)  
-   [SOS-for-Linux PDF file](https://github.com/ye-kyaw-thu/Tutorials/blob/master/SOS-for-Linux.pdf)
+   [SOS-for-Linux PDF file](https://github.com/ye-kyaw-thu/Tutorials/blob/master/SOS-for-Linux.pdf)  
+
+4. Jupyter Notebook Installation
+   Notebook file: [https://github.com/ye-kyaw-thu/Tutorials/blob/master/jupyter-notebook/jupyter-notebook-installation.ipynb](https://github.com/ye-kyaw-thu/Tutorials/blob/master/jupyter-notebook/jupyter-notebook-installation.ipynb)
+   HTML file: [https://github.com/ye-kyaw-thu/Tutorials/blob/master/jupyter-notebook/jupyter-notebook-installation.html](https://github.com/ye-kyaw-thu/Tutorials/blob/master/jupyter-notebook/jupyter-notebook-installation.html) 
+
