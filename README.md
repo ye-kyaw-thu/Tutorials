@@ -18,6 +18,7 @@ Tutorial slide, Jupyter notebook and codes.
 
 4. Jupyter Notebook Installation
    Notebook file: [https://github.com/ye-kyaw-thu/Tutorials/blob/master/jupyter-notebook/jupyter-notebook-installation.ipynb](https://github.com/ye-kyaw-thu/Tutorials/blob/master/jupyter-notebook/jupyter-notebook-installation.ipynb)  
+   
    HTML file: [https://github.com/ye-kyaw-thu/Tutorials/blob/master/jupyter-notebook/jupyter-notebook-installation.html](https://github.com/ye-kyaw-thu/Tutorials/blob/master/jupyter-notebook/jupyter-notebook-installation.html)  
    
 
